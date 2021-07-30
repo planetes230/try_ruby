@@ -1,0 +1,11 @@
+name = "福本悠太"
+age = 31
+
+puts name
+puts age
+
+
+puts "私の名前は #{name}です。年齢は#{age}です。"
+
+age -=36
+puts age
